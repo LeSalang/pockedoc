@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Покедок</string>
+
+    <string name="calc_glucocorticoids_title">Конвертер ГКС</string>
+    <string name="calc_glucocorticoids_description">Расчёт эквивалентных доз глюкокортикостероидов</string>
+
+    <string name="calc_substance_in_solution_title">Расчёт массы вещества в растворе </string>
+    <string name="calc_substance_in_solution_description">Расчёт массы вещества в растворе, если известно процентное содержание вещества и объём ампулы </string>
+
+    <string name="calc_score2_title">Шкала SCORE-2</string>
+    <string name="calc_score2_description">Оценка фатального риска при сердечно-сосудистых заболеваниях</string>
+
+    <string name="calc_smoking_title">Индекс курения</string>
+    <string name="calc_smoking_description">Калькулятор расчёта индекса курения</string>
+
+    <string name="calculate">Рассчитать</string>
+    <string name="explanation_general">Введите данные и обновите окно</string>
+    <string name="mistake">Ошибка в подсчётах</string>
+    <string name="input_mistake">Ошибка в введённых параметрах</string>
+
+    <string name="number_of_cigarettes">Количество сигарет, выкуриваемых в день</string>
+    <string name="number_of_years">Стаж курения в годах</string>
+    <string name="smoking_index_result">Индекс курения = %d пачка/лет</string>
+    <string name="smoking_index_explanation_1">Вы не входите в группу риска развития ХОБЛ</string>
+    <string name="smoking_index_explanation_2">Имеется достоверный фактор риска развития ХОБЛ</string>
+
+    <string name="substance_in_solution_percent">Содержание вещества в растворе, %</string>
+    <string name="substance_in_solution_volume">Объём раствора, мл</string>
+    <string name="substance_in_solution_result">В растворе %.2f мг вещества</string>
+
+<!-- Шкала комы Глазго -->
+    <string name="glasgow_coma_scale_title">Шкала комы Глазго</string>
+    <string name="glasgow_coma_scale_description">Шкала для оценки нарушения сознания и комы детей старше 4 лет и взрослых</string>
+
+    <string name="eye_response">Открывание глаз</string>
+    <string name="verbal_response">Речевая реакция</string>
+    <string name="motor_response">Двигательная реакция</string>
+
+    <string name="eye_response_nt">Серьёзная травма глаза, отсутствие глаза…</string>
+    <string name="eye_response_1">Отсутствует</string>
+    <string name="eye_response_2">Как реакция на болевое раздражение</string>
+    <string name="eye_response_3">Как реакция на вербальный стимул</string>
+    <string name="eye_response_4">Произвольное</string>
+
+    <string name="verbal_response_nt">Интубация, нарушение речи немеханического характера, языковой барьер…</string>
+    <string name="verbal_response_1">Никаких звуков</string>
+    <string name="verbal_response_2">Издаёт звуки, но не слова</string>
+    <string name="verbal_response_3">Произносит отдельные слова</string>
+    <string name="verbal_response_4">Произносит фразы, но речь бессвязная</string>
+    <string name="verbal_response_5">Ориентирован, быстрый и правильный ответ на заданный вопрос</string>
+
+    <string name="motor_response_nt">Паралич, перелом… </string>
+    <string name="motor_response_1">Не двигается</string>
+    <string name="motor_response_2">Патологическое разгибание в ответ на боль</string>
+    <string name="motor_response_3">Патологическое сгибание в ответ на боль</string>
+    <string name="motor_response_4">Бессмысленные движения в ответ на боль</string>
+    <string name="motor_response_5">Локализует боль, пытается её избежать</string>
+    <string name="motor_response_6">Выполнение движений по команде</string>
+
+    <string name="glasgow_coma_scale_result_3_4">Кома-3</string>
+    <string name="glasgow_coma_scale_result_5_6">Кома-2</string>
+    <string name="glasgow_coma_scale_result_7_8">Кома-1</string>
+    <string name="glasgow_coma_scale_result_9_10">Сопор</string>
+    <string name="glasgow_coma_scale_result_11_12">Глубокое оглушение</string>
+    <string name="glasgow_coma_scale_result_13_14">Умеренное оглушение</string>
+    <string name="glasgow_coma_scale_result_15">Сознание ясное</string>
+
+
+
+
+
+
+</resources>
